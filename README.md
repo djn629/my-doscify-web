@@ -39,7 +39,7 @@
       </div>
       <img src="images/qq-qrcode.png" alt="QQ二维码（扫码添加好友）" class="qq-qrcode">
     </a>
-    <p class="section-note">点击卡片或扫码可添加我为QQ好友（图片可能无法显示）</p>
+    <p class="section-note">点击卡片或扫码可添加我为QQ好友（图片可能无法显示,所以请点击添加）</p>
   </section>
 
   <!-- 动态壁纸获取模块 -->
